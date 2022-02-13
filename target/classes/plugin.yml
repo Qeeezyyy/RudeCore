@@ -1,0 +1,44 @@
+name: Rudecore
+version: '2.0.1'
+main: de.julian.rudecore.core.Main
+api-version: 1.18
+authors: [ JuliianDE, Titus ]
+description: RudeSystemCore
+
+commands:
+  clearchat:
+    aliases:
+      - cc
+    description:
+      Leere den Server Chat.
+  gamemode:
+    aliases:
+      - gm
+    description:
+      Verändere deinen Spielmodus.
+  maintenance:
+    description:
+      Starte oder Stoppe die Wartungsarbeiten
+  sudo:
+    description:
+      Führe als anderer Nutzer einen Befehl aus oder sende eine Nachricht,
+  info:
+    aliases:
+      - information
+    description:
+      Lese Informationen zum Netzwerk aus.
+  help:
+    aliases:
+      - helplist
+    description:
+      Die Hilfeliste der Commands
+  enderchest:
+    aliases:
+      - ec
+    description:
+      Öffne die EnderChest.
+  vanish:
+    aliases:
+      - v
+    description:
+      Setze dich in den Vanish

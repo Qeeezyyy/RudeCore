@@ -1,0 +1,11 @@
+#Aktiv = true, Inaktiv = false
+maintenance: false
+#
+# Core Names
+prefix: "§6Rude§cCore §8» "
+syntaxname: "§4SyntaxError §8» "
+noperm: "§4SyntaxError §8» §7Du hast dafür keine Rechte!"
+helplistheader: "§8[§6Rude§cAttack.de§8] §6Informationen zum §6Rude§cAttack.de"
+listheader: "§8[§6Rude§cAttack.de§8] "
+#
+discord: "discord.gg/test"#YOURLINK

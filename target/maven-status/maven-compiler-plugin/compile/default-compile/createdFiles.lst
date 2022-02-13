@@ -1,0 +1,14 @@
+de\julian\rudecore\core\maintenance\MaintenanceListener.class
+de\julian\rudecore\listeners\CommandListener.class
+de\julian\rudecore\commands\InformationCommand.class
+de\julian\rudecore\core\Main.class
+de\julian\rudecore\core\utils\Utils.class
+de\julian\rudecore\listeners\ConnectionListener.class
+de\julian\rudecore\commands\GameModeCommand.class
+de\julian\rudecore\commands\ChatClearCommand.class
+de\julian\rudecore\core\maintenance\MaintenanceCommand.class
+de\julian\rudecore\commands\SudoCommand.class
+de\julian\rudecore\commands\HelpListCommand.class
+de\julian\rudecore\commands\VanishCommand.class
+de\julian\rudecore\core\tablist\TablistManager.class
+de\julian\rudecore\commands\EnderChestCommand.class
